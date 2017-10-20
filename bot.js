@@ -7,3 +7,4 @@ var aliasesFile = "README.MD";
 var botToken = "MzcwMjAyNTM0NzU0NjQ4MDY0.DMvk0g.dfMFVKZ4R7MZu6jGNZS6Boe8mEY";
  
 bot.run(serverName, textChannelName, voiceChannelName, aliasesFile, botToken);
+bot.setYoutubeKey("AIzaSyD_oAhXdRMEZSu6-U0CwAK0NiygxBzOubk");
