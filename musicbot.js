@@ -31,9 +31,9 @@ var now_playing_data = {};
 var queue = [];
 var aliases = {};
 
-var voice_connection = 369859313314824203;
-var voice_handler = 369859313314824203;
-var text_channel = 369899380536246272;
+var voice_connection = admim;
+var voice_handler = admim;
+var text_channel = admim;
 
 var yt_api_key = AIzaSyD_oAhXdRMEZSu6-U0CwAK0NiygxBzOubk;
 
