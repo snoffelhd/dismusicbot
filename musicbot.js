@@ -31,11 +31,11 @@ var now_playing_data = {};
 var queue = [];
 var aliases = {};
 
-var voice_connection = null;
-var voice_handler = null;
-var text_channel = null;
+var voice_connection = 369859313314824203;
+var voice_handler = 369859313314824203;
+var text_channel = 369899380536246272;
 
-var yt_api_key = null;
+var yt_api_key = AIzaSyD_oAhXdRMEZSu6-U0CwAK0NiygxBzOubk;
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////
@@ -542,5 +542,5 @@ exports.run = function(server_name, text_channel_name, voice_channel_name, alias
 }
 
 exports.setYoutubeKey = function(key) {
-	yt_api_key = key;
+	yt_api_key = AIzaSyD_oAhXdRMEZSu6-U0CwAK0NiygxBzOubk;
 }
